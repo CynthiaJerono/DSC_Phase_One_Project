@@ -6,21 +6,13 @@
 As a result of the rise in original film production in mega companies, Microsoft has tasked us with the responsibility to appraise her of the movie industry outlook before it climbs on the bandwagon. We used the return on investment as a measure to gauge the profitability of particular gernres, previewed the month of release of those perticular movies, looked into the genres that were most popular and those that had high viewer votes so we could come up with conclusions.
 
 ## 1. Business Problem
-Due to the increase in original film production by major companies, Microsoft has tasked us with evaluating the movie industry outlook before it joins the trend. We used the return on investment to assess the profitability of specific genres, analyzed the release months of those movies, and examined the genres that were most popular and received high viewer ratings. These analyses will help us draw informed conclusions.
--Invest significantly in content development, talent acquisition, and marketing.
--Gain a deep understanding of audience preferences and trends.
--Decide on a monetization strategy that balances the costs of content creation with revenue streams such as subscriptions or advertising.
--Collaborate with established content creators and influencers to leverage their existing fanbases.
--Establish strategic partnerships with other media companies and platforms to expand reach and distribution
--Implement robust feedback mechanisms to continuously improve content quality based on viewer responses
--Stay agile and adaptable to quickly respond to changing market dynamics and emerging trends.
 
+The potential business challenge for Microsoft in entering the original video content space lies in figuring out how to create content that stands out from competitors and attracts and retains viewers. With established players like Sony and Disney already producing exceptional original content, Microsoft will need to differentiate itself and create compelling content that resonates with audiences. To gain a foothold in the market, Microsoft should:
+  
+* Identify top five movies with the highest world wide gross
+* Find the average total domestic gross per annum.
+* Find the Production budget for the top five highest earning movies
 
-I based my analysis on 3 major factors
-
-- When is the most favorable month of the year to release a movie?
-- What is the relationship between production cost and revenues?
-- What type of genres are most popular?
 
 ## 2. Data Understanding
 This analysis utilizes datasets acquired from two movie websites, namely Box Office Mojo and The Numbers.
